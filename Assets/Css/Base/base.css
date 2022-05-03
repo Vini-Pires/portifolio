@@ -1,0 +1,10 @@
+.link {
+    text-decoration: none;
+    color: var(--base-font-color);
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: blue;
+    font-size: 1.05rem;
+}
