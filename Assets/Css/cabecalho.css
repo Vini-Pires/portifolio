@@ -1,0 +1,12 @@
+.nav__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1rem 0 ;
+    background: var(--header-nav);
+}
+
+.nav__link {
+    font-size: 1.3rem;
+}
