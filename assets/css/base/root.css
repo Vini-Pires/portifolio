@@ -1,5 +1,4 @@
 :root {
-    --header: #8ac4ff;
     --sea-green: #0a8754;
     --dark-purple: #230c33;
     --bone: #d0ceba;
@@ -8,5 +7,6 @@
     --font-title: 3rem;
     
     --header-nav: #1c5d99;
-    --header-text: #fff;
+    
+    --init-bg: #8ac4ff;
 }
