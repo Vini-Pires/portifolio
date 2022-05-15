@@ -1,0 +1,21 @@
+.master__init {
+    align-items: center;
+    background: var(--init-bg);
+    display: flex;
+    flex-flow: column;
+    height: calc(100vh - 4rem);
+    justify-content: center;
+    gap: 1rem;
+}
+
+.init__img {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    width: 20%;
+}
+
+.init__name {
+    border: 2px solid currentColor;
+    border-radius: 10px;
+    padding: .5rem;
+}
