@@ -1,5 +1,6 @@
 html {
     font-family: "roboto", sans-serif;
+    background: red;
 }
 
 .link {
@@ -9,4 +10,12 @@ html {
 
 .link:hover {
     text-decoration: underline;
+}
+
+.title {
+    font-size: 3rem;
+}
+
+.sub-title {
+    font-size: 1.5rem;
 }

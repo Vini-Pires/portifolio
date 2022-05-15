@@ -10,3 +10,13 @@
     
     --init-bg: #8ac4ff;
 }
+
+::-webkit-scrollbar {
+    background: var(--bone);
+    width: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #13091a;
+    border-radius: .5rem;
+}
